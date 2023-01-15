@@ -1,0 +1,25 @@
+文字		JIS							ANSI
+へ			equal_sign				backslash
+む　		non_us_pound			close_bracket
+ー			international3			sft-close_bracket
+け			quote						quote
+ろ			international1			sft-quote
+゜			close_bracket			equal_sign																			
+「			sft-close_bracket		sft-equal_sign														
+゛			open_bracket			open_bracket														
+」			sft-non_us_pound	sft-open_bracket													
+																								
+半角文字		JIS							ANSI
+-													hyphen		
+=													equal_sign
+
+															
+															
+															
+															ª９ｏＯｌ，Ｌ２２２２'';５５555５５５@@@@@@@222@@@
+															
+															
+															
+															
+															
+ａ
