@@ -1,4 +1,3 @@
-# kksadjaldfsad
+# 新JIS配列に関するメモ
 
-sadl;sdajklad
 
